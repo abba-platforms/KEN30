@@ -642,8 +642,8 @@ The token does not represent ownership of equities, exchange-traded funds, deriv
 
 KEN30 does not grant rights to dividends, voting power, or ownership in any company referenced within the benchmark.
 
-- End
-
 The benchmark is provided as a transparent digital reference layer and should not be interpreted as an investment product, fund, or collective investment scheme.
 
 Users, developers, exchanges, and institutions integrating the benchmark are responsible for ensuring compliance with applicable laws and regulations within their respective jurisdictions.
+
+-End-
