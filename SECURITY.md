@@ -1,4 +1,4 @@
-# SECURITY.md
+# SECURITY
 
 ## Kenya 30 Index (KEN30)
 
