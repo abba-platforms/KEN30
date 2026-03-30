@@ -1,5 +1,8 @@
 # KENYA 30 INDEX (KEN30)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Built with Solidity](https://img.shields.io/badge/built%20with-Solidity-363636) ![ERC-20 Compliant](https://img.shields.io/badge/ERC--20-Compliant-brightgreen) [![Security Policy](https://img.shields.io/badge/Security-Policy-blue.svg)](SECURITY.md)
+![Creator](https://img.shields.io/badge/Creator-Simon%20Kapenda-lightgrey.svg)
+
 ## Blockchain-Native Benchmark Infrastructure for Kenya’s Capital Markets
 
 ---
